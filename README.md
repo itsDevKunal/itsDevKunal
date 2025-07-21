@@ -7,7 +7,7 @@
 
 - 🤝 I’m looking for help with **Top-up my Skills on Web-Development and critical thinking.**
 
-- 👨‍💻 All of my projects are available at [itsdevkunal.vercel.app](itsdevkunal.vercel.app)
+- 👨‍💻 All of my projects are available at [My GitHub page](https://github.com/itsdevkunal)
 
 - 💬 Ask me about **Frontend & Backend**
 
